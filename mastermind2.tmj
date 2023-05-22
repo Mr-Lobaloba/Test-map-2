@@ -319,7 +319,7 @@
          "objects":[
                 {
                  "class":"area",
-                 "height":64,
+                 "height":73,
                  "id":2,
                  "name":"Exit Lounge",
                  "properties":[
@@ -353,7 +353,7 @@
                 }, 
                 {
                  "class":"area",
-                 "height":64,
+                 "height":71,
                  "id":4,
                  "name":"Exit Tutorial",
                  "properties":[
