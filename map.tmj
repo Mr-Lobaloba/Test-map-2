@@ -1402,23 +1402,6 @@
                 }, 
                 {
                  "class":"area",
-                 "height":256,
-                 "id":61,
-                 "name":"MeetingSpace",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingRoom"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":288,
-                 "x":1056,
-                 "y":640
-                }, 
-                {
-                 "class":"area",
                  "height":48,
                  "id":62,
                  "name":"BAR",
