@@ -321,6 +321,27 @@
          "id":12,
          "name":"Door_step",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"autoClose",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"autoOpen",
+                 "type":"bool",
+                 "value":false
+                }, 
+                {
+                 "name":"doorVariable",
+                 "type":"string",
+                 "value":"my_door"
+                }, 
+                {
+                 "name":"tag",
+                 "type":"string",
+                 "value":""
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":94,
@@ -704,7 +725,7 @@
                 }, 
                 {
                  "class":"area",
-                 "height":743.999966666667,
+                 "height":925.999966666667,
                  "id":6,
                  "name":"jitsiChillZone07",
                  "properties":[
@@ -721,13 +742,13 @@
                         {
                          "name":"zoom_margin",
                          "type":"float",
-                         "value":0.5
+                         "value":0.4
                         }],
                  "rotation":0,
                  "visible":true,
                  "width":860.000333333333,
                  "x":1760.6665,
-                 "y":1534.00001666667
+                 "y":1352.00001666667
                 }, 
                 {
                  "class":"area",
