@@ -924,7 +924,7 @@
          "name":"FG",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":94,
          "x":0,
          "y":0
