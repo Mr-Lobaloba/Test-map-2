@@ -18,8 +18,11 @@ WA.onInit().then(() => {
 
     WA.room.area.onLeave('clock').subscribe(closePopup)
 
-WA.room.area.onEnter("your_area").subscribe(() => {     
-WA.room.showLayer("roof");    }); 
+WA.room.area.onEnter("roof_office_area").subscribe(() => {     
+WA.room.hideLayer("roof1");    }); 
+
+WA.room.area.onLeave("roof_office_area").subscribe(() => {     
+WA.room.showLayer("roof1");    }); 
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
