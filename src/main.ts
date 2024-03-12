@@ -24,6 +24,43 @@ WA.room.hideLayer("roof1");    });
 WA.room.area.onLeave("roof_office_area").subscribe(() => {     
 WA.room.showLayer("roof1");    }); 
 
+WA.room.area.onEnter('phrase01').subscribe(() => {
+        currentPopup = WA.ui.openPopup("phrase01Popup", "Hi. I am Rybot", []);
+    })
+
+    WA.room.area.onLeave('phrase01').subscribe(closePopup);
+
+WA.room.area.onEnter('phrase02').subscribe(() => {
+        currentPopup = WA.ui.openPopup("phrase02Popup", "Hi. I am Rybot", []);
+    })
+
+    WA.room.area.onLeave('phrase02').subscribe(closePopup);
+
+WA.room.area.onEnter('phrase03').subscribe(() => {
+        currentPopup = WA.ui.openPopup("phrase03Popup", "Room 01", []);
+    })
+
+    WA.room.area.onLeave('phrase03').subscribe(closePopup);
+
+WA.room.area.onEnter('phrase04').subscribe(() => {
+        currentPopup = WA.ui.openPopup("phrase04Popup", "Room 02", []);
+    })
+
+    WA.room.area.onLeave('phrase04').subscribe(closePopup);
+
+WA.room.area.onEnter('phrase05').subscribe(() => {
+        currentPopup = WA.ui.openPopup("phrase05Popup", "Our office accessible to our team members. You can book a meeting at the reception", []);
+    })
+
+    WA.room.area.onLeave('phrase05').subscribe(closePopup);
+
+WA.room.area.onEnter('phrase06').subscribe(() => {
+        currentPopup = WA.ui.openPopup("phrase06Popup", "Our office accessible to our team members. You can book a meeting at the reception", []);
+    })
+
+    WA.room.area.onLeave('phrase06').subscribe(closePopup);
+
+
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
         console.log('Scripting API Extra ready');
