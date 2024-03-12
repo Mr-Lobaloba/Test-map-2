@@ -622,7 +622,7 @@
                 }, 
                 {
                  "class":"area",
-                 "height":225.833,
+                 "height":170.833,
                  "id":9,
                  "name":"Conference room03",
                  "properties":[
@@ -634,17 +634,17 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"MeetingRoom03"
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":163.212,
-                 "x":974.394,
+                 "width":123.712,
+                 "x":1013.894,
                  "y":763.3335
                 }, 
                 {
                  "class":"area",
-                 "height":225.833,
+                 "height":182.333,
                  "id":10,
                  "name":"Conference room01",
                  "properties":[
@@ -656,17 +656,17 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"MeetingRoom01"
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":160.212,
+                 "width":122.712,
                  "x":414.894,
                  "y":757.5835
                 }, 
                 {
                  "class":"area",
-                 "height":225.833,
+                 "height":180.333,
                  "id":11,
                  "name":"Conference room02",
                  "properties":[
@@ -678,12 +678,12 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"MeetingRoom02"
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":242.212,
-                 "x":653.394,
+                 "width":176.106,
+                 "x":691.394,
                  "y":762.0835
                 }, 
                 {
@@ -695,7 +695,7 @@
                         {
                          "name":"focusable",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"jitsiRoom",
@@ -732,7 +732,7 @@
                         {
                          "name":"focusable",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"jitsiRoom",
