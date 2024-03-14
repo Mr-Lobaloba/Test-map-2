@@ -60,6 +60,18 @@ WA.room.area.onEnter('phrase06').subscribe(() => {
 
     WA.room.area.onLeave('phrase06').subscribe(closePopup);
 
+WA.room.area.onEnter('phrase07').subscribe(() => {
+        currentPopup = WA.ui.openPopup("phrase07Popup", "Hi. I am Rybot", []);
+    })
+
+    WA.room.area.onLeave('phrase07').subscribe(closePopup);
+
+WA.room.area.onEnter('phrase08').subscribe(() => {
+        currentPopup = WA.ui.openPopup("phrase08Popup", "Portal to the Ryco platform", []);
+    })
+
+    WA.room.area.onLeave('phrase08').subscribe(closePopup);
+
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
