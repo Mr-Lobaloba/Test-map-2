@@ -19,10 +19,35 @@ WA.onInit().then(() => {
     WA.room.area.onLeave('clock').subscribe(closePopup)
 
 WA.room.area.onEnter("roof_office_area").subscribe(() => {     
-WA.room.hideLayer("roof1");    }); 
+WA.room.hideLayer("roof_office");    }); 
 
 WA.room.area.onLeave("roof_office_area").subscribe(() => {     
-WA.room.showLayer("roof1");    }); 
+WA.room.showLayer("roof_office");    }); 
+
+WA.room.area.onEnter("roof_amphitheatre_area").subscribe(() => {     
+WA.room.hideLayer("roof_amphitheatre");    }); 
+
+WA.room.area.onLeave("roof_amphitheatre_area").subscribe(() => {     
+WA.room.showLayer("roof_amphitheatre");    }); 
+
+WA.room.area.onEnter("roof_meetingspace1_area").subscribe(() => {     
+WA.room.hideLayer("roof_meetingspace1");    }); 
+
+WA.room.area.onLeave("roof_meetingspace1_area").subscribe(() => {     
+WA.room.showLayer("roof_meetingspace1");    }); 
+
+WA.room.area.onEnter("roof_meetingspace2_area").subscribe(() => {     
+WA.room.hideLayer("roof_meetingspace2");    }); 
+
+WA.room.area.onLeave("roof_meetingspace2_area").subscribe(() => {     
+WA.room.showLayer("roof_meetingspace2");    }); 
+
+WA.room.area.onEnter("roof_campfire_area").subscribe(() => {     
+WA.room.hideLayer("roof_campfire");    }); 
+
+WA.room.area.onLeave("roof_campfire_area").subscribe(() => {     
+WA.room.showLayer("roof_campfire");    }); 
+
 
 WA.room.area.onEnter('phrase01').subscribe(() => {
         currentPopup = WA.ui.openPopup("phrase01Popup", "Hi. I am Rybot", []);
