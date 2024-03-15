@@ -1174,7 +1174,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.ryco.io\/"
+                         "value":"http:\/\/beta.ryco.io"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
