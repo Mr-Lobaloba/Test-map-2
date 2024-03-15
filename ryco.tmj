@@ -1265,12 +1265,17 @@
                 }, 
                 {
                  "class":"area",
-                 "height":31.6667,
-                 "id":58,
+                 "height":48.3333333333333,
+                 "id":59,
                  "name":"Blog",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"openTab",
                          "type":"string",
                          "value":"http:\/\/blog.ryco.io"
                         }, 
@@ -1286,9 +1291,9 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":101.833,
-                 "x":539.750166666666,
-                 "y":1311.83331666667
+                 "width":116.166666666667,
+                 "x":533.25,
+                 "y":1306.16666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1921,7 +1926,7 @@
          "y":0
         }],
  "nextlayerid":28,
- "nextobjectid":59,
+ "nextobjectid":60,
  "orientation":"orthogonal",
  "properties":[
         {
