@@ -360,9 +360,9 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 34841, 34842, 34843, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 34862, 34863, 34864, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 34883, 34884, 34885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8851, 8852, 8853, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -643,7 +643,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.ryco.io\/"
+                         "value":"http:\/\/beta.ryco.io"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -799,14 +799,14 @@
                 }, 
                 {
                  "class":"area",
-                 "height":125.833366666667,
+                 "height":81.833366666667,
                  "id":24,
                  "name":"phrase04",
                  "rotation":0,
                  "visible":true,
-                 "width":129.666333333333,
-                 "x":-190.042,
-                 "y":1426.70998333333
+                 "width":310.333,
+                 "x":603.291333333333,
+                 "y":1152.70998333333
                 }, 
                 {
                  "class":"",
@@ -815,9 +815,9 @@
                  "name":"phrase04Popup",
                  "rotation":0,
                  "visible":true,
-                 "width":189.75,
-                 "x":-216.875,
-                 "y":1389.45665
+                 "width":331.75,
+                 "x":589.791666666667,
+                 "y":1102.78998333333
                 }, 
                 {
                  "class":"area",
@@ -833,7 +833,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.ryco.io\/"
+                         "value":"http:\/\/beta.ryco.io"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -865,7 +865,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.ryco.io\/"
+                         "value":"http:\/\/beta.ryco.io"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -995,7 +995,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.ryco.io\/"
+                         "value":"http:\/\/beta.ryco.io"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1022,7 +1022,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.ryco.io\/"
+                         "value":"http:\/\/beta.ryco.io"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1235,6 +1235,60 @@
                  "width":426,
                  "x":1732,
                  "y":2464
+                }, 
+                {
+                 "class":"area",
+                 "height":31.6666666666667,
+                 "id":57,
+                 "name":"Newsletter",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"http:\/\/newsletter.ryco.io "
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE or touch here to open a website"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":101.833333333333,
+                 "x":864.75,
+                 "y":1376.83333333333
+                }, 
+                {
+                 "class":"area",
+                 "height":31.6667,
+                 "id":58,
+                 "name":"Blog",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"http:\/\/blog.ryco.io"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE or touch here to open a website"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":101.833,
+                 "x":539.750166666666,
+                 "y":1311.83331666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1867,7 +1921,7 @@
          "y":0
         }],
  "nextlayerid":28,
- "nextobjectid":57,
+ "nextobjectid":59,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -2011,236 +2065,6 @@
          "spacing":0,
          "tilecount":8649,
          "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":21,
-         "firstgid":34841,
-         "image":"tilesets\/Animated_Alarm_Blub.png",
-         "imageheight":96,
-         "imagewidth":672,
-         "margin":0,
-         "name":"Animated_Alarm_Blub",
-         "spacing":0,
-         "tilecount":63,
-         "tileheight":32,
-         "tiles":[
-                {
-                 "animation":[
-                        {
-                         "duration":100,
-                         "tileid":0
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":3
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":6
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":9
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":12
-                        }],
-                 "id":0
-                }, 
-                {
-                 "animation":[
-                        {
-                         "duration":100,
-                         "tileid":1
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":4
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":7
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":10
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":13
-                        }],
-                 "id":1
-                }, 
-                {
-                 "animation":[
-                        {
-                         "duration":100,
-                         "tileid":2
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":5
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":8
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":11
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":14
-                        }],
-                 "id":2
-                }, 
-                {
-                 "animation":[
-                        {
-                         "duration":100,
-                         "tileid":21
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":24
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":27
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":30
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":33
-                        }],
-                 "id":21
-                }, 
-                {
-                 "animation":[
-                        {
-                         "duration":100,
-                         "tileid":22
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":25
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":28
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":31
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":34
-                        }],
-                 "id":22
-                }, 
-                {
-                 "animation":[
-                        {
-                         "duration":100,
-                         "tileid":23
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":26
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":29
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":32
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":35
-                        }],
-                 "id":23
-                }, 
-                {
-                 "animation":[
-                        {
-                         "duration":100,
-                         "tileid":42
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":45
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":48
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":51
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":54
-                        }],
-                 "id":42
-                }, 
-                {
-                 "animation":[
-                        {
-                         "duration":100,
-                         "tileid":43
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":46
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":49
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":52
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":55
-                        }],
-                 "id":43
-                }, 
-                {
-                 "animation":[
-                        {
-                         "duration":100,
-                         "tileid":44
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":47
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":50
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":53
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":56
-                        }],
-                 "id":44
-                }],
          "tilewidth":32
         }],
  "tilewidth":32,

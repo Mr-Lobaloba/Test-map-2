@@ -68,7 +68,7 @@ WA.room.area.onEnter('phrase03').subscribe(() => {
     WA.room.area.onLeave('phrase03').subscribe(closePopup);
 
 WA.room.area.onEnter('phrase04').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase04Popup", "Room 02", []);
+        currentPopup = WA.ui.openPopup("phrase04Popup", "Order food here", []);
     })
 
     WA.room.area.onLeave('phrase04').subscribe(closePopup);
