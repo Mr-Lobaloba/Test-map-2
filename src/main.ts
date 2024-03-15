@@ -74,13 +74,13 @@ WA.room.area.onEnter('phrase04').subscribe(() => {
     WA.room.area.onLeave('phrase04').subscribe(closePopup);
 
 WA.room.area.onEnter('phrase05').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase05Popup", "Our office accessible to our team members. You can book a meeting at the reception", []);
+        currentPopup = WA.ui.openPopup("phrase05Popup", "Our office is accessible to our team members. You can book a meeting at the reception", []);
     })
 
     WA.room.area.onLeave('phrase05').subscribe(closePopup);
 
 WA.room.area.onEnter('phrase06').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase06Popup", "Our office accessible to our team members. You can book a meeting at the reception", []);
+        currentPopup = WA.ui.openPopup("phrase06Popup", "Our office is accessible to our team members. You can book a meeting at the reception", []);
     })
 
     WA.room.area.onLeave('phrase06').subscribe(closePopup);
