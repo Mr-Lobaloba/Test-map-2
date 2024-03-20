@@ -50,19 +50,19 @@ WA.room.showLayer("roof_campfire");    });
 
 
 WA.room.area.onEnter('phrase01').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase01Popup", "Hi. I am Rybot", []);
+        currentPopup = WA.ui.openPopup("phrase01Popup", "Hi. I am rybot", []);
     })
 
     WA.room.area.onLeave('phrase01').subscribe(closePopup);
 
 WA.room.area.onEnter('phrase02').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase02Popup", "Hi. I am Rybot", []);
+        currentPopup = WA.ui.openPopup("phrase02Popup", "Hi. I am rybot", []);
     })
 
     WA.room.area.onLeave('phrase02').subscribe(closePopup);
 
 WA.room.area.onEnter('phrase03').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase03Popup", "Room 01", []);
+        currentPopup = WA.ui.openPopup("phrase03Popup", " Greetings Teachers!", []);
     })
 
     WA.room.area.onLeave('phrase03').subscribe(closePopup);
@@ -86,7 +86,7 @@ WA.room.area.onEnter('phrase06').subscribe(() => {
     WA.room.area.onLeave('phrase06').subscribe(closePopup);
 
 WA.room.area.onEnter('phrase07').subscribe(() => {
-        currentPopup = WA.ui.openPopup("phrase07Popup", "Hi. I am Rybot", []);
+        currentPopup = WA.ui.openPopup("phrase07Popup", "Hi. I am rybot", []);
     })
 
     WA.room.area.onLeave('phrase07').subscribe(closePopup);
