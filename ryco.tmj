@@ -2853,8 +2853,8 @@
                  "rotation":0,
                  "visible":true,
                  "width":32,
-                 "x":672,
-                 "y":1984
+                 "x":638,
+                 "y":2047
                 }, 
                 {
                  "class":"",
@@ -3002,6 +3002,23 @@
                  "width":344,
                  "x":1514,
                  "y":1040.5
+                }, 
+                {
+                 "class":"area",
+                 "height":33,
+                 "id":109,
+                 "name":"fire",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":33.3333,
+                 "x":2207.33335,
+                 "y":2434.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3738,7 +3755,7 @@
          "y":0
         }],
  "nextlayerid":43,
- "nextobjectid":109,
+ "nextobjectid":110,
  "orientation":"orthogonal",
  "properties":[
         {
