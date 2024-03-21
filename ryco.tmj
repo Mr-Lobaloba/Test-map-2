@@ -1920,33 +1920,6 @@
                 }, 
                 {
                  "class":"area",
-                 "height":127,
-                 "id":37,
-                 "name":"Website",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/www.ryco.io\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE or touch here to open a website"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":130.5,
-                 "x":-396.5,
-                 "y":1867.5
-                }, 
-                {
-                 "class":"area",
                  "height":204.666633333333,
                  "id":38,
                  "name":"Rybot",
@@ -2251,8 +2224,8 @@
                  "rotation":0,
                  "visible":true,
                  "width":74,
-                 "x":-241,
-                 "y":1866.66665
+                 "x":-162,
+                 "y":1736.66665
                 }, 
                 {
                  "class":"area",
