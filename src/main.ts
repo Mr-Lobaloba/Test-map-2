@@ -18,6 +18,7 @@ WA.onInit().then(() => {
 
     WA.room.area.onLeave('clock').subscribe(closePopup)
 
+
 WA.room.area.onEnter("roof_office_area").subscribe(() => {     
 WA.room.hideLayer("roof_office");    }); 
 
@@ -47,6 +48,7 @@ WA.room.hideLayer("roof_campfire");    });
 
 WA.room.area.onLeave("roof_campfire_area").subscribe(() => {     
 WA.room.showLayer("roof_campfire");    }); 
+
 
 
 WA.room.area.onEnter('phrase01').subscribe(() => {
@@ -96,6 +98,27 @@ WA.room.area.onEnter('phrase08').subscribe(() => {
     })
 
     WA.room.area.onLeave('phrase08').subscribe(closePopup);
+
+WA.room.area.onEnter('phrase09').subscribe(() => {
+        currentPopup = WA.ui.openPopup("phrase09Popup", "Portal to the Ryco platform", [{
+        label: "Close",
+        className: "primary",
+        callback: (popup) => {
+            // Close the popup when the "Close" button is pressed.
+            popup.close();
+        }
+    }]);
+    })
+
+    WA.room.area.onLeave('phrase09').subscribe(() => {
+    currentPopup.close();
+})
+
+WA.room.area.onEnter('phrase10').subscribe(() => {
+        currentPopup = WA.ui.openPopup("phrase10Popup", "Portal to the Ryco platform", []);
+    })
+
+    WA.room.area.onLeave('phrase10').subscribe(closePopup);
 
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
