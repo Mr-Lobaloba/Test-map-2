@@ -1258,7 +1258,7 @@
                  "name":"door_officeL_open",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":93,
                  "x":0,
                  "y":0
@@ -1466,7 +1466,7 @@
                  "name":"door_officeR_open",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":93,
                  "x":0,
                  "y":0
@@ -4202,19 +4202,6 @@
                         }],
                  "id":74
                 }],
-         "tilewidth":32
-        }, 
-        {
-         "columns":12,
-         "firstgid":34888,
-         "image":"tilesets\/111.png",
-         "imageheight":320,
-         "imagewidth":384,
-         "margin":0,
-         "name":"111",
-         "spacing":0,
-         "tilecount":120,
-         "tileheight":32,
          "tilewidth":32
         }],
  "tilewidth":32,
